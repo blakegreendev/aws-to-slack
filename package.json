@@ -14,8 +14,8 @@
     "url": "https://github.com/arabold/aws-to-slack.git"
   },
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "lodash": "^4.17.5"
+    "bluebird": "^3.7.2",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "aws-sdk": "^2.224.1",
